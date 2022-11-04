@@ -7,7 +7,7 @@
 
 
 ## Description
-JavaScript password generator
+JavaScript password generator is an application that will allow a user to generate a random password based on criteria they've selected. This app will run in a browser.
 
 ## Installation
 To view the project in your browser:
@@ -18,7 +18,7 @@ To view the project in your browser:
 
 ## Deployment
 
-Application is deployed through Github Pages, live URL [Portfolio Website Link](https://westgards.github.io/password-generator/src)
+Application is deployed through Github Pages, live URL [Password-Generator Website Link](https://westgards.github.io/password-generator/src/app/)
 
 ## Features
 - Dynamically updated HTML, CSS, and JavaScript
