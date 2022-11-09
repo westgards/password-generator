@@ -1,3 +1,7 @@
+:root {
+  /* declare a variable with `--` syntax */
+  --light-color: #e7e9eb; 
+}
 *,
 *::before,
 *::after {
@@ -14,7 +18,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: var(--light-color);
 }
 
 .wrapper {
@@ -46,7 +50,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background:  var(--light-color);;
   height: 2px;
 }
 
@@ -62,7 +66,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background:  var(--light-color);;
   height: 2px;
 }
 
